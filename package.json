@@ -1,0 +1,25 @@
+{
+  "name": "tufte-css",
+  "version": "0.0.5",
+  "description": "Tufte CSS as Sass",
+  "author": {
+    "name": "laidlaw",
+    "email": "alanlaidlaw@gmail.com"
+  },
+  "main": "_tufte.scss",
+  "homepage": "http://www.daveliepmann.com/tufte-css/",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Laidlaw/tufte-css.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Laidlaw/tufte-css/issues"
+  },
+  "keywords": [
+    "tufte",
+    "scss",
+    "tufte-css",
+    "design",
+    "typography"
+  ]
+}

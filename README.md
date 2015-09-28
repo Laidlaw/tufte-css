@@ -1,5 +1,7 @@
 Tufte CSS
 =========
+UPDATE: This is a fork.
+
 >Simplicity, to me, has always been the essence of good taste. <br/>
 > -- [Cary Grant](http://www.gq.com/style/wear-it-now/201304/cary-grant-on-style?printable=true)
 
@@ -61,7 +63,7 @@ p { font-size: 1.4rem;
     width: 55%;
     padding-right: 0;
     vertical-align: baseline; }
-    
+
 @media screen and (max-width: 600px) { p { width: 70%; }}
 @media screen and (max-width: 400px) { p { width: 90%; }}
 ```
